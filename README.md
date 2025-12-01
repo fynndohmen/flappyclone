@@ -33,8 +33,7 @@ Make sure the assets/ folder (bird sprite, pipe sprite, background layers, etc.)
 
 Run the game:
 
-python game.py
-(or whatever your main file is named, e.g. main.py if you split it later)
+python main.py
 
 Controls
 Mouse Left Click – click “Start Game” on the start screen to begin.
